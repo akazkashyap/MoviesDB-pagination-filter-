@@ -1,0 +1,1 @@
+export const filters = ["Action", "Adventure", "Comedy","Crime", "Drama", "Musical" ,"Romance"]
