@@ -3,7 +3,7 @@ All Genres
 ![Screenshot at 2023-03-27 18-56-18](https://user-images.githubusercontent.com/52403079/227951308-7552e689-9387-46fd-9a85-936d1dbba0d5.png)
 
 Can Filter by Genre
-![Screenshot at 2023-03-27 18-56-18](https://user-images.githubusercontent.com/52403079/227951334-59e28a87-41b2-4dd0-aa6f-da9d805885e2.png)
+![Screenshot at 2023-03-27 18-56-33](https://user-images.githubusercontent.com/52403079/227951656-c8594e8b-e939-4a35-aa7f-4e2c69d5f58b.png)
 
 
 ### `npm start`
